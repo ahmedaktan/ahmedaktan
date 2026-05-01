@@ -16,12 +16,12 @@
 
 ## 📊 GitHub İstatistikleri
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aahmedaktan&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaktan&layout=compact&theme=tokyonight)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aahmedaktan&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedaktan&show_icons=true&theme=tokyonight)
 
 ---
 
 ## 👀 Profil Ziyaretleri
 
-![Visitor Count](https://komarev.com/ghpvc/?username=aahmedaktan&style=for-the-badge&color=blue)
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmedaktan&style=for-the-badge&color=blue)
