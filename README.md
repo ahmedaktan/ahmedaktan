@@ -1,12 +1,12 @@
 # 👨‍💻 Ahmed AKTAN
 
-### Full Stack Developer | Computer Engineering Student
+### Full Stack Developer | Computer Engineer
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 İnönü Üniversitesi Bilgisayar Mühendisliği öğrencisiyim  
+- 🎓 İnönü Üniversitesi Bilgisayar Mühendisliği mezunuyum  
 - 💻 Web development ve backend sistemler üzerine çalışıyorum  
 - ⚙️ Clean code, scalability ve system design konularına ilgi duyuyorum  
 - 🧠 Sürekli öğrenen ve projeler üreten bir geliştiriciyim  
@@ -44,11 +44,6 @@
 
 ---
 
-## 📈 Activity
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ahmedaktan&theme=tokyonight)
-
----
 
 ## 📫 Contact
 
